@@ -1,4 +1,4 @@
-"inurl:admin.asp"
+"inurl:admin.asp" (best)
 "inurl:login/admin.asp"
 "inurl:admin/login.asp"
 "inurl:adminlogin.asp"
@@ -16,6 +16,9 @@
 "inurl:administratorlogin.php"
 "inurl:login/administrator.php"
 "inurl:administrator_login.php
+
+WRITE WITH INURL:
+
 login.html
 login/
 adm/
